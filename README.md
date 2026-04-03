@@ -235,4 +235,6 @@ Everything else expands, operationalizes, tests, scores, or deploys those core i
 
 This repository exists because the old way of handling crime scenes leaves too much explanatory weight in prestige, intuition, oral rescue, and administrative closure.
 
-The work here argues for a more disciplined alternative. If it is useful, use it. If it needs pressure, test it. If it needs revision, revise it. But the point is to make the operating model stronger, not simply more familiar.
+The work here argues for a more disciplined alternative. If it is useful, use it. If it needs pressure, test it.
+
+This repository is a published work. Issues, discussions, and pull requests are intentionally disabled. No feedback channel is provided through this repository.
