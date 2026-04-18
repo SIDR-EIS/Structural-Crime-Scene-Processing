@@ -238,3 +238,13 @@ This repository exists because the old way of handling crime scenes leaves too m
 The work here argues for a more disciplined alternative. If it is useful, use it. If it needs pressure, test it.
 
 This repository is a published work. Issues, discussions, and pull requests are intentionally disabled. No feedback channel is provided through this repository.
+
+## Contacting The Author
+
+Address correspondance to:
+
+C. F. Raymond 
+
+PO BOX 10 
+
+Woodstown, New Jersey, 08098, USA 
