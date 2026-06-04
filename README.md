@@ -241,10 +241,4 @@ This repository is a published work. Issues, discussions, and pull requests are 
 
 ## Contacting The Author
 
-Address correspondance to:
-
-C. F. Raymond 
-
-PO BOX 10 
-
-Woodstown, New Jersey, 08098, USA 
+Email: cfraymond.author@ndgothicpress.com
