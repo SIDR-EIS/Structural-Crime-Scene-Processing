@@ -241,4 +241,5 @@ This repository is a published work. Issues, discussions, and pull requests are 
 
 ## Contacting The Author
 
+
 Email: cfraymond.author@ndgothicpress.com
